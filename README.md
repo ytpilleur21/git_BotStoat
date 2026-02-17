@@ -11,3 +11,10 @@ git remote add origin Https
 git add .
 git commit -m "Titre du Commit"
 git push origin master
+```
+
+## Création d'une branche
+
+```bash
+git checkout -b NOM_BRANCHE
+```

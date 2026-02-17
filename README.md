@@ -1,6 +1,13 @@
 # Documentation pour le Bot en collaboration sur Stoat
 
+## Initialisation du dépôt
 ```bash
 git init
-git remote add origin https://github.com/ytpilleur21/git_BotStoat.git
+git remote add origin Https
 ``` 
+## Envoyer un commit sur le dépot distant 
+
+```bash
+git add .
+git commit -m "Titre du Commit"
+git push origin master
